@@ -68,6 +68,3 @@ Streamlit arayüzü:
 streamlit run app.py
 ```
 
-## Not
-
-Bu repository, açık kaynak bir akıllı şebeke/Decision Tree projesindeki genel teknik yaklaşım incelenerek bağımsız bir eğitim/prototip çalışması olarak hazırlanmıştır.
